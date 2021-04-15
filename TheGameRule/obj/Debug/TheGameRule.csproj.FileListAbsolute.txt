@@ -1,0 +1,14 @@
+d:\Users\Administrator\source\repos\TheGameRule\TheGameRule\bin\Debug\TheGameRule.exe.config
+d:\Users\Administrator\source\repos\TheGameRule\TheGameRule\bin\Debug\TheGameRule.exe
+d:\Users\Administrator\source\repos\TheGameRule\TheGameRule\bin\Debug\TheGameRule.pdb
+d:\Users\Administrator\source\repos\TheGameRule\TheGameRule\obj\Debug\TheGameRule.csprojResolveAssemblyReference.cache
+d:\Users\Administrator\source\repos\TheGameRule\TheGameRule\obj\Debug\TheGameRule.csproj.CoreCompileInputs.cache
+d:\Users\Administrator\source\repos\TheGameRule\TheGameRule\obj\Debug\TheGameRule.exe
+d:\Users\Administrator\source\repos\TheGameRule\TheGameRule\obj\Debug\TheGameRule.pdb
+D:\Users\TheGameRule\TheGameRule\bin\Debug\TheGameRule.exe.config
+D:\Users\TheGameRule\TheGameRule\bin\Debug\TheGameRule.exe
+D:\Users\TheGameRule\TheGameRule\bin\Debug\TheGameRule.pdb
+D:\Users\TheGameRule\TheGameRule\obj\Debug\TheGameRule.csprojResolveAssemblyReference.cache
+D:\Users\TheGameRule\TheGameRule\obj\Debug\TheGameRule.csproj.CoreCompileInputs.cache
+D:\Users\TheGameRule\TheGameRule\obj\Debug\TheGameRule.exe
+D:\Users\TheGameRule\TheGameRule\obj\Debug\TheGameRule.pdb
